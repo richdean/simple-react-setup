@@ -1,12 +1,12 @@
 {
-  "name": "react-test",
+  "name": "simple-react-setup",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "babel-node ./node_modules/.bin/webpack-dev-server --inline --content-base src",
     "test": "babel-node ./node_modules/.bin/karma start"
   },
-  "author": "Richard Dean",
+  "author": "Rich Dean",
   "license": "ISC",
   "dependencies": {
     "react": "^15.1.0",
